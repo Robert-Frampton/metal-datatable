@@ -518,4 +518,5 @@ Datatable.TYPES = {
 	UNDEFINED: 'undefined'
 };
 
+export { Datatable };
 export default Datatable;
